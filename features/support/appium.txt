@@ -1,5 +1,5 @@
 [caps]
-platformName = "ios"
-deviceName = "iphone Simulator"
-platformVersion = "7.1"
-browserName = "safari"
+platformName = "Android"
+deviceName = "Android Emulator"
+platformVersion = "5.0"
+browserName = "Browser"
