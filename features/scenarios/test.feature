@@ -1,8 +1,7 @@
 @vp @dataplan @desktop
-Feature: VP-Dataplan
-  User can buy dataplan from bukalapak.com
+Feature: Dataplan
+  User can buy dataplan
 
-  @alfamart @vp-7 @fs-vp-7
   Scenario: User pay their data plan order via Alfamart
     Invoice status should be in waiting until the order has paid via alfamart
 
